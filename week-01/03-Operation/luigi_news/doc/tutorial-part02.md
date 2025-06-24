@@ -52,3 +52,4 @@ scrapy crawl news_spider -o test_output.json
 ```
 
 If it works, you will see a `test_output.json` file full of news articles! You have successfully built your extractor
+Let us continue with [the next part](./tutorial-part03.md).
