@@ -59,4 +59,4 @@ That's it\! You now have Scrapy installed and are ready to start building your f
 ### **The Target Website: books.toscrape.com**
 
 For this tutorial, we will be scraping [books.toscrape.com](http://books.toscrape.com). This is a fictional bookstore website that is specifically designed for people to practice their web scraping skills. It has a catalog of books, including titles, prices, star ratings, and multiple pages to navigate.  
-In the next part, we'll create our first Scrapy project and build a "spider" to crawl this website.
+In the [next part](./tutorial-part02.md), we'll create our first Scrapy project and build a "spider" to crawl this website.
