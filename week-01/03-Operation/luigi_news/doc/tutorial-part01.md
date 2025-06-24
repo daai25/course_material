@@ -37,7 +37,7 @@ pandas
 dash
 ```
 
-Install them by running this command in your terminal:
+Install them by running this command in your terminal (best in a virtual environment):
 
 ```bash
 pip install -r requirements.txt
