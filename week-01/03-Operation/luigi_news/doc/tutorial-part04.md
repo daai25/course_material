@@ -13,3 +13,5 @@ You will see Luigi check the dependencies and run the Extract, Load, and Analyze
 Run the same command again a few minutes later. You will see it run again! This is because the DateMinuteParameter creates a new, unique target each time, allowing you to fetch fresh data.
 
 Congratulations! You have successfully built and run a complete, automated data pipeline.
+
+Let us continue with [the last part](./tutorial-part05.md).
