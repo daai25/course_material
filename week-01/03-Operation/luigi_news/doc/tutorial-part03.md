@@ -174,3 +174,5 @@ class NewsScrapingPipeline(luigi.WrapperTask):
 if __name__ == '__main__':
     luigi.run()
 ```
+
+Let us continue with [the next part](./tutorial-part04.md).
