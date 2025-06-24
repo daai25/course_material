@@ -70,4 +70,4 @@ DASH_PORT = 8050
 DASH_HOST = '127.0.0.1'
 ```
 
-Let us continue with [the next part](./tutorial-part01.md).
+Let us continue with [the next part](./tutorial-part02.md).
