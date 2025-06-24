@@ -24,7 +24,7 @@ import scrapy
 class BookspiderSpider(scrapy.Spider):
     name = 'bookspider'
     allowed_domains = ['books.toscrape.com']
-    start_urls = ['[http://books.toscrape.com/](http://books.toscrape.com/)']
+    start_urls = ['http://books.toscrape.com/']
 
     def parse(self, response):
         # --- (Code for scraping books on the current page - no changes here) ---
