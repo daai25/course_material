@@ -1,4 +1,6 @@
-# Introduction to Web Scraping
+# Tutorial: Introduction to Web Scraping
+
+In this tutorial, you will learn the basics of Scrapy and use it to crawl some data about books.
 
 ## [Part 1](doc/tutorial-part01.md)
 ## [Part 2](doc/tutorial-part02.md)
