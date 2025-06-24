@@ -106,4 +106,4 @@ You'll see a lot of text scroll by. This is Scrapy's log output, and it's very u
 
 The `200` status code means the request was successful. Our spider successfully fetched the homepage! It didn't extract any data yet, but we've confirmed that it can access the website.
 
-In the next part, we'll modify the `parse` method to start extracting the book titles and prices from the page.
+In the [next part](./tutorial-part03.md), we'll modify the `parse` method to start extracting the book titles and prices from the page.
