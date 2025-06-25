@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 2: Create the Configuration File
-The `config.py` file will hold all our important file paths and settings, making them easy to change later.
+The `config.py` file holds all our important file paths and settings, making them easy to change later.
 
 ```python
 import os
