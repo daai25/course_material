@@ -129,6 +129,6 @@ You did it! You have successfully built a web scraper that can:
 * Identify and follow pagination links to crawl an entire website.
 * Save the collected data into a clean JSON file.
 
-This is the foundation of web scraping. From here, you can explore more advanced topics like handling different item fields, dealing with logins, using proxies, and deploying your spiders to the cloud. Happy scraping!
 
+In the [final part](./tutorial-part05.md), we'll learn how to deal with dynamic, JavaScript-rendered content using Scrapy and Playwright.
                 
