@@ -248,3 +248,6 @@ def parse(self, response, **kwargs):
 ```
 
 This approach ensures that each followed link is also rendered with Playwright, allowing you to scrape JavaScript-generated content on every page.
+
+
+This is the foundation of web scraping. From here, you can explore more advanced topics like handling different item fields, dealing with logins, using proxies, and deploying your spiders to the cloud. Happy scraping!
