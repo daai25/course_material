@@ -6,7 +6,7 @@ Welcome! In this tutorial, you will build a complete, real-world data pipeline f
 
 Our goal is to build a pipeline that:
 
-1. **Extracts** the latest regional news headlines from a live RSS feed.  
+1. **Extracts** the latest technology news headlines from a live RSS feed.  
 2. **Loads** this data into a persistent database, avoiding duplicate entries.  
 3. **Analyzes** the data to see which news sources are most active.  
 4. **Visualizes** the results on a simple web dashboard.  

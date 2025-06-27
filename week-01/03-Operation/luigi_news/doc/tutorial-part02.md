@@ -1,5 +1,5 @@
 ## Part 2: The Scraper (Extract)
-In this part, you will create a Scrapy project that extracts news from the New York Times News RSS feed.
+In this part, you will create a Scrapy project that extracts news from the Google News RSS feed.
 
 ### Step 1: Create the Scrapy Project
 Navigate into your `extract` directory in the terminal and run the command to create a new Scrapy project.
@@ -25,7 +25,7 @@ class NewsSpider(scrapy.Spider):
     name = 'news_spider'
     
         # The URL of the News RSS feed
-    start_urls = ['https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml']
+    start_urls = ['https://news.google.com/rss/search?q=technology']
 
     def parse(self, response):
         # RSS feeds are XML. remove_namespaces() helps with parsing.
@@ -48,7 +48,7 @@ From inside the `extract/news_scraper` directory, run your spider and save the o
 
 ```bash
 cd news_scraper
-scrapy crawl news_spider -o test_output.json
+scrapy crawl news_spider --set=ROBOTSTXT_OBEY='False' -o test_output.json
 ```
 
 If it works, you will see a `test_output.json` file full of news articles! You have successfully built your extractor

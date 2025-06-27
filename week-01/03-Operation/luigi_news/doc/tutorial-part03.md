@@ -4,7 +4,7 @@ Now we will build the Luigi tasks that will automate our ETL process.
 ### Step 1: The Extract Task
 This first task will be responsible for running the Scrapy spider we just built.
 
-Fill in the file `extract/tasks.py` with this code.
+Create the file `extract/tasks.py` and copy the following code.
 
 ```python
 import luigi
