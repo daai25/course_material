@@ -1,0 +1,1000 @@
+id,name,status,bdate,city,canton
+1,Lesia Joiner,silver,1985-07-11 21:56:26,Buelach,todo
+2,Michael Berg,gold,1962-08-03 21:29:12,Frauenfeld,todo
+3,Stephen Vaughn,silver,1983-03-11 11:05:41,St. Gallen,todo
+4,Cynthia Conigliaro,bronze,1987-09-30 10:22:44,Zürich,todo
+5,Beverly Heifner,bronze,1998-01-11 14:13:39,Uster,todo
+6,Oscar Mclaughlin,bronze,1980-04-03 15:47:30,Wil,todo
+7,Carol Lindall,gold,1955-06-22 01:28:13,St Gallen,todo
+8,Laurie White,gold,1997-01-31 05:51:41,Romanshorn,todo
+9,Sondra Ford,gold,1961-09-12 19:24:46,Frauenfeld,todo
+10,Samuel Obannon,bronze,1959-04-04 06:14:55,Kreuzlingen,todo
+11,Carol Suriel,gold,1980-04-25 01:26:11,St. Gallen,todo
+12,Linda Ankenman,bronze,1963-09-17 00:50:49,Frauenfeld,todo
+13,Robert Moran,silver,1970-08-11 00:59:41,Kreuzlingen,todo
+14,Ann Farris,gold,2000-10-11 06:09:20,St. Gallen,todo
+15,Guadalupe Rozzi,gold,1961-10-07 09:06:53,Zürich,todo
+16,David Mann,bronze,1990-06-15 18:14:03,Winterthur,todo
+17,Rachel Williams,silver,1980-08-03 11:15:23,Frauenfeld,todo
+18,Linda Quasdorf,bronze,1973-07-07 04:20:51,Gossau,todo
+19,William Smith,gold,2001-05-23 16:31:32,Wil,todo
+20,Amanda Dibari,silver,1971-02-06 03:42:46,St. Gallen,todo
+21,Herbert Smith,gold,1996-05-27 14:02:16,St. Gallen,todo
+22,Mike Smith,silver,1969-02-15 04:37:26,Zürich,todo
+23,Anthony Nesbitt,silver,1975-04-29 15:58:37,St Gallen,todo
+24,David Oakley,silver,1990-01-17 23:42:44,Winterthur,todo
+25,David Taylor,silver,1985-10-16 02:36:33,Buelach,todo
+26,Marjorie Simmons,bronze,2000-03-11 05:22:22,Buelach,todo
+27,Jean Richards,bronze,1967-05-08 20:08:30,Zuerich,todo
+28,Regina Murrell,bronze,1983-08-03 15:54:34,Sankt Gallen,todo
+29,Marcia Guzman,silver,1994-04-01 15:20:17,Wil,todo
+30,Lisa Brown,silver,1984-10-10 07:59:50,Kreuzlingen,todo
+31,Douglas Wells,silver,1953-07-15 00:32:18,Winterthur,todo
+32,Paul Moeller,gold,1983-06-20 19:46:53,Sankt Gallen,todo
+33,Brandon Arsenault,silver,1981-01-09 11:32:25,Winterthur,todo
+34,Tomas Shipp,gold,2003-02-28 11:43:35,St. Gallen,todo
+35,Earl Evans,silver,1980-02-29 19:43:30,Romanshorn,todo
+36,Helen Standifer,bronze,1989-07-24 08:35:05,Romanshorn,todo
+37,Marie Woodcock,gold,1973-02-06 15:49:52,Zuerich,todo
+38,Charles Richburg,gold,1964-08-24 12:23:19,Bülach,todo
+39,Edward Numbers,gold,1960-07-24 13:17:56,St Gallen,todo
+40,Donna Robinson,gold,1969-04-07 04:10:28,Winterthur,todo
+41,Donna Ross,silver,1989-08-22 17:58:14,Sankt Gallen,todo
+42,John Hensley,bronze,1977-11-15 14:40:45,Frauenfeld,todo
+43,Chieko Hammond,silver,1977-09-03 08:59:02,Frauenfeld,todo
+44,Ray Ohalloran,bronze,1962-11-22 23:30:31,St Gallen,todo
+45,Irene Minjarez,silver,1985-10-14 15:33:34,Winterthur,todo
+46,Brian Fonseca,gold,1997-12-13 03:26:31,Frauenfeld,todo
+47,Kenneth Rance,gold,1972-07-07 03:08:29,St Gallen,todo
+48,Tracie Koehn,silver,1988-03-29 04:48:24,Uster,todo
+49,Delmar Nolin,silver,2004-11-25 00:54:00,Uster,todo
+50,Bonita Dean,gold,1968-04-15 10:35:02,Wil,todo
+51,Juanita Meyer,gold,1990-12-01 06:56:54,Gossau,todo
+52,Michele Garcia,gold,1976-07-27 18:19:23,Gossau,todo
+53,Tabatha Lobianco,bronze,1984-02-29 10:55:43,Kreuzlingen,todo
+54,Mariano Deloye,bronze,1950-06-13 11:41:36,Uster,todo
+55,Tom Johnson,silver,1963-01-31 23:07:35,Zuerich,todo
+56,Joe Perry,gold,1967-10-22 03:51:15,Gossau,todo
+57,William Chapin,silver,1963-12-11 08:08:13,Kreuzlingen,todo
+58,Erica Summers,gold,1967-03-26 18:40:44,Bülach,todo
+59,Verdie Shelpman,silver,2001-06-08 11:46:15,Frauenfeld,todo
+60,Phyllis Cazier,silver,2003-06-23 20:07:32,Winterthur,todo
+61,Melissa Corrales,bronze,1952-09-04 04:09:31,Buelach,todo
+62,Richard Restrepo,gold,1980-12-21 05:07:09,Zürich,todo
+63,Joseph Poe,silver,1978-09-26 23:07:41,Zuerich,todo
+64,Karl Johnson,silver,1986-06-22 04:15:11,St Gallen,todo
+65,Robbie Head,bronze,1978-07-26 18:05:37,Zuerich,todo
+66,Carmella Carey,gold,1960-02-03 23:31:56,Bülach,todo
+67,Christiane Arender,bronze,1950-09-05 19:30:20,St. Gallen,todo
+68,Brian Daniel,gold,1997-03-10 02:02:59,Buelach,todo
+69,Carolyn Lasher,silver,2002-12-19 17:39:16,Bülach,todo
+70,Jenny Hammond,bronze,1974-09-02 15:43:31,Wil,todo
+71,Elizabeth Strong,silver,2001-03-29 11:53:30,Gossau,todo
+72,Heidi Goad,silver,1998-10-20 22:43:13,Winterthur,todo
+73,Paul Goldbach,silver,1955-02-14 11:53:51,St Gallen,todo
+74,Sheryl Washington,bronze,1950-11-12 08:09:40,Romanshorn,todo
+75,Annabel Hernandez,bronze,1997-07-12 08:15:33,St. Gallen,todo
+76,Leroy Bingham,silver,2004-05-19 01:45:44,Winterthur,todo
+77,Edna Valenza,silver,1980-10-25 14:07:01,Sankt Gallen,todo
+78,Harold Milam,bronze,1966-07-18 03:20:46,Frauenfeld,todo
+79,Zachery Curtis,gold,1988-01-08 20:49:44,Frauenfeld,todo
+80,Cassondra Honea,bronze,1984-04-03 17:05:25,Uster,todo
+81,Myra Greenberg,gold,1957-02-22 09:38:23,Bülach,todo
+82,Forrest Silva,bronze,1964-01-09 04:01:59,Kreuzlingen,todo
+83,Nancy Sharr,gold,2002-12-31 08:42:23,Sankt Gallen,todo
+84,Roy Mclain,bronze,1984-08-31 23:18:15,Uster,todo
+85,Shirley Perkins,bronze,1997-11-15 14:45:12,Wil,todo
+86,Robert Kowalczyk,silver,1956-07-20 09:04:26,Sankt Gallen,todo
+87,Karyn Sherman,bronze,1989-10-13 14:02:21,Bülach,todo
+88,Ron Wood,bronze,1981-01-30 22:58:28,Zürich,todo
+89,Jennifer Crowley,bronze,1979-02-17 13:02:54,Zuerich,todo
+90,Joseph Dean,silver,1964-04-05 02:16:16,St. Gallen,todo
+91,Sandra Reddick,gold,1952-03-09 14:21:37,Kreuzlingen,todo
+92,Paul Dennis,bronze,2002-12-30 06:17:19,St. Gallen,todo
+93,Lisa Knauer,gold,1977-11-18 17:07:53,Uster,todo
+94,Mary Mchenry,bronze,1968-10-21 06:59:19,Winterthur,todo
+95,Ismael Sweney,silver,1988-02-13 16:45:48,Frauenfeld,todo
+96,Alma Stevenson,bronze,1980-11-23 02:00:25,Uster,todo
+97,Frances Garcia,bronze,1991-01-03 07:10:59,Bülach,todo
+98,Thomas Johnson,gold,1961-11-18 06:01:17,Zuerich,todo
+99,Robert Dansby,bronze,1968-10-26 19:12:25,St. Gallen,todo
+100,Daryl Mcbride,gold,1975-12-04 16:00:00,Frauenfeld,todo
+101,Francisca Kinney,bronze,1973-12-02 18:12:17,Gossau,todo
+102,Tasha Lopes,bronze,1974-06-01 08:11:54,Uster,todo
+103,Christina Damm,silver,1990-02-13 08:45:07,Kreuzlingen,todo
+104,Brian Mcdonnell,gold,1981-07-16 17:09:36,Zürich,todo
+105,Ben Tamburo,gold,2004-06-03 03:41:25,Zuerich,todo
+106,Katy Carr,bronze,1955-10-14 15:47:33,Buelach,todo
+107,Patrick Campbell,gold,1967-03-05 19:36:33,Frauenfeld,todo
+108,Stephen Hier,gold,1998-02-03 19:49:48,Sankt Gallen,todo
+109,Matthew Walling,bronze,1972-05-23 02:26:35,Wil,todo
+110,Ruthie Miller,gold,1986-03-31 09:55:07,Frauenfeld,todo
+111,Trevor Shields,gold,1972-10-26 08:42:59,Romanshorn,todo
+112,Christopher Carroll,bronze,1956-03-07 16:44:53,Wil,todo
+113,Victor Silva,silver,1984-04-10 22:02:49,Wil,todo
+114,Linda Rivera,silver,2001-05-17 09:34:06,Frauenfeld,todo
+115,Dortha Cain,bronze,1952-04-23 03:53:05,Frauenfeld,todo
+116,Jose Coppinger,gold,1979-08-20 21:14:38,Bülach,todo
+117,Dora Copeland,gold,1998-09-04 16:31:56,St. Gallen,todo
+118,Leah Farmer,bronze,1985-10-31 22:23:00,Buelach,todo
+119,Patricia Macneil,bronze,1980-06-13 05:50:53,Kreuzlingen,todo
+120,Beth White,gold,1960-10-15 15:51:00,Winterthur,todo
+121,Marion Weiss,gold,2000-06-05 19:19:50,Uster,todo
+122,Larry Caswell,bronze,1990-12-11 10:29:41,Uster,todo
+123,Bruce Griffin,bronze,1950-12-04 21:12:56,St. Gallen,todo
+124,Lindsey Robinson,gold,2001-06-01 19:22:15,Buelach,todo
+125,Evelyn Case,silver,1995-11-06 23:12:48,Zuerich,todo
+126,Ollie Duncan,silver,1998-07-28 10:34:42,St Gallen,todo
+127,Ronald Estabrook,silver,2002-03-22 07:04:13,St Gallen,todo
+128,Tim Hall,bronze,1981-02-04 14:06:51,Romanshorn,todo
+129,Raymond Ramsey,gold,1972-09-28 21:12:38,Zürich,todo
+130,Dale Tagg,gold,1988-02-29 04:41:30,Bülach,todo
+131,Iris Park,silver,1954-02-07 14:06:42,Buelach,todo
+132,Linda Voelkel,gold,1978-03-22 19:39:48,Kreuzlingen,todo
+133,Nathan Petersen,gold,1978-11-20 02:59:37,Winterthur,todo
+134,Frank Allen,silver,1974-12-04 07:51:27,Romanshorn,todo
+135,Ronnie Donovan,bronze,1978-11-05 18:58:11,Sankt Gallen,todo
+136,Sue Gonzalez,gold,1955-05-16 14:59:12,Winterthur,todo
+137,Clara Collins,gold,1996-02-20 11:10:23,Gossau,todo
+138,Ty Reynolds,silver,1956-08-23 17:39:13,Frauenfeld,todo
+139,Jimmy Markel,bronze,1963-05-20 00:39:43,Buelach,todo
+140,Vernon Goff,gold,1985-10-08 08:22:45,Uster,todo
+141,Marshall Lemasters,gold,1958-04-23 04:10:25,Kreuzlingen,todo
+142,Richard Mikeska,bronze,1953-06-30 23:25:41,Wil,todo
+143,Tamara Herring,gold,1993-04-28 21:56:09,Uster,todo
+144,Diana Gregory,gold,1994-08-19 10:36:23,Uster,todo
+145,Kati Garcia,bronze,1951-09-19 13:49:13,Uster,todo
+146,Tracy Nitti,bronze,1958-02-13 00:29:00,Uster,todo
+147,Samuel Miller,bronze,1998-08-01 06:30:30,Buelach,todo
+148,John Huston,silver,1959-11-25 03:54:11,St Gallen,todo
+149,Angelique Stauffer,gold,1954-05-22 14:30:46,Romanshorn,todo
+150,Johnny Fogarty,silver,1988-07-03 22:30:13,Romanshorn,todo
+151,Josefina Raynor,bronze,2004-11-25 21:30:52,St Gallen,todo
+152,Jason Will,gold,1956-02-25 22:41:37,Romanshorn,todo
+153,Thomas Campbell,bronze,1963-04-13 22:11:27,Sankt Gallen,todo
+154,Russell Blackshire,bronze,1998-03-16 05:26:19,Romanshorn,todo
+155,Josefina Brewer,gold,1959-04-22 22:41:02,Winterthur,todo
+156,Jonathan Gaytan,gold,1960-05-12 15:40:44,Frauenfeld,todo
+157,Carrie Majera,gold,1988-11-01 06:18:19,Uster,todo
+158,Mildred Weintraub,bronze,1951-09-05 22:38:06,Kreuzlingen,todo
+159,Judith Vargas,gold,1988-03-12 17:53:05,Bülach,todo
+160,Deanna Keepers,silver,1974-03-29 19:38:58,St Gallen,todo
+161,Richard Box,gold,1997-05-18 10:37:56,Romanshorn,todo
+162,Jennifer Spears,silver,2000-05-13 22:07:36,Sankt Gallen,todo
+163,Terrell Shaw,silver,1964-04-28 01:44:07,Winterthur,todo
+164,Latoya Rios,gold,2001-05-15 09:52:05,Zürich,todo
+165,Todd Hubbard,silver,1960-05-03 15:40:34,Gossau,todo
+166,Brandi Huffman,silver,2003-12-14 23:38:14,Frauenfeld,todo
+167,Michael Macon,bronze,1981-05-07 12:55:10,Gossau,todo
+168,Gerald Rhodes,gold,1984-06-26 23:26:07,Zuerich,todo
+169,Juan Johansson,gold,1990-01-01 12:28:13,St Gallen,todo
+170,April Mejia,silver,2000-07-24 16:56:45,Romanshorn,todo
+171,Samuel Perl,bronze,1966-06-11 13:00:59,Uster,todo
+172,Charles Boch,gold,1993-01-19 06:44:23,Zürich,todo
+173,Luis Quinones,silver,1989-04-19 10:12:31,Buelach,todo
+174,Leslie Schwalb,gold,1988-02-06 00:51:58,St. Gallen,todo
+175,Clyde Parduhn,gold,1951-07-21 16:37:32,Zürich,todo
+176,Russell Hayes,silver,1964-03-11 20:54:19,Romanshorn,todo
+177,Jamie Moore,gold,1986-03-19 08:06:56,Bülach,todo
+178,Heidi Thompson,bronze,1974-10-08 12:23:28,Romanshorn,todo
+179,Carolyn Daniels,silver,1969-03-10 13:39:36,Buelach,todo
+180,Minnie Harden,bronze,1991-02-06 13:33:57,Romanshorn,todo
+181,Ryan Day,bronze,2001-03-06 03:31:41,Buelach,todo
+182,George Hale,gold,1983-09-18 08:02:07,Kreuzlingen,todo
+183,Genevieve Martinez,bronze,1962-08-15 12:06:44,Winterthur,todo
+184,Herbert Roblow,silver,1986-05-31 06:01:27,Uster,todo
+185,Teresa Holder,gold,1992-08-13 15:56:33,Wil,todo
+186,Tony Stonge,silver,1973-06-25 11:54:45,Romanshorn,todo
+187,Hector Spannuth,silver,1950-12-11 08:18:27,St Gallen,todo
+188,Dorothy Robinson,gold,1964-10-07 06:07:37,Sankt Gallen,todo
+189,Melody Harris,bronze,1982-11-19 00:55:44,Wil,todo
+190,Mary Jenkins,gold,1968-08-21 18:05:01,Frauenfeld,todo
+191,Veronica Richards,silver,1966-03-03 19:01:32,Sankt Gallen,todo
+192,Andrew Phillips,gold,1993-02-15 02:48:02,Buelach,todo
+193,Evelyn Nelson,silver,1972-05-17 05:30:51,Kreuzlingen,todo
+194,Terry Griffin,bronze,1973-08-16 10:13:42,Buelach,todo
+195,Jerri Best,silver,1980-09-14 06:21:51,Wil,todo
+196,Stacy Tejeda,gold,1985-08-17 06:00:31,Winterthur,todo
+197,Alice Mcqueen,bronze,1957-05-23 22:32:43,Sankt Gallen,todo
+198,Robin Zahler,bronze,1965-07-05 18:39:15,Bülach,todo
+199,Milissa Cook,silver,1991-12-21 20:12:45,Gossau,todo
+200,Gloria Larson,gold,1993-01-02 23:33:12,St Gallen,todo
+201,Marcus Martinez,gold,1964-01-08 22:48:25,Bülach,todo
+202,Laura Gillard,gold,1971-08-01 16:36:56,Frauenfeld,todo
+203,Julius Kallin,silver,1995-06-07 21:01:33,Kreuzlingen,todo
+204,Bo Hinton,bronze,1974-05-12 20:10:47,Bülach,todo
+205,Brittany Mcgregor,silver,1959-05-17 00:05:25,St. Gallen,todo
+206,Brian Law,silver,2001-01-07 02:12:55,Winterthur,todo
+207,Shawna Cobb,bronze,1971-07-15 04:54:06,Frauenfeld,todo
+208,Ethel Kwok,gold,1975-06-27 21:40:24,Sankt Gallen,todo
+209,Maria White,bronze,2001-07-16 17:35:50,Buelach,todo
+210,Misty Thompson,silver,1996-03-23 15:31:39,Zürich,todo
+211,Marjorie Gonzalez,bronze,2002-09-22 23:33:31,Bülach,todo
+212,Kevin Espinoza,bronze,1995-03-21 16:35:26,Frauenfeld,todo
+213,Amalia Ward,bronze,1973-07-02 14:22:36,St. Gallen,todo
+214,Lois Wilson,silver,1956-06-17 16:42:04,Bülach,todo
+215,Larry Bautista,bronze,1951-04-12 20:48:02,Zürich,todo
+216,Brendan Pike,silver,1952-08-22 06:18:45,Romanshorn,todo
+217,Freda Pfeifer,silver,1966-04-08 03:35:49,Buelach,todo
+218,Jeffrey Dean,bronze,1975-05-02 06:06:12,Winterthur,todo
+219,Elizabeth Ferebee,bronze,2002-08-27 10:23:31,Gossau,todo
+220,David Battles,bronze,1973-01-11 05:28:35,Sankt Gallen,todo
+221,Delia Valenzuela,silver,1993-06-25 22:09:04,Buelach,todo
+222,Phillip Mahood,bronze,1995-05-18 02:58:21,Uster,todo
+223,Harvey Burgess,bronze,1996-09-18 13:30:03,St. Gallen,todo
+224,Johnny Nadeau,bronze,1963-05-15 23:54:18,Romanshorn,todo
+225,Edward Marsh,silver,1989-04-16 14:46:37,Winterthur,todo
+226,Aaron Messner,silver,1971-10-02 11:17:27,Gossau,todo
+227,Evelyn Waltz,bronze,1979-02-12 23:01:10,Gossau,todo
+228,Carroll Hewitt,bronze,1986-02-02 17:30:14,Bülach,todo
+229,Yuonne Thompson,gold,1960-08-04 23:51:06,Gossau,todo
+230,Cornelia Craighead,silver,1988-07-28 03:34:08,Sankt Gallen,todo
+231,Alberto Harcourt,gold,1974-04-16 02:35:46,Romanshorn,todo
+232,Jason Smith,silver,1983-11-28 19:01:41,Zuerich,todo
+233,Miguel Baldwin,bronze,1973-08-02 02:15:53,Bülach,todo
+234,Eugene Czajkowski,bronze,1975-01-26 11:24:06,Zürich,todo
+235,Jackie Mccready,gold,1988-01-01 03:28:12,Gossau,todo
+236,Doug Rodriguez,bronze,1975-05-29 15:36:43,Romanshorn,todo
+237,Otis Harris,silver,2001-01-27 12:14:23,Frauenfeld,todo
+238,James Barry,silver,1977-06-25 03:15:18,Sankt Gallen,todo
+239,Bridget Ford,bronze,1953-07-12 07:22:03,Winterthur,todo
+240,Donald Villalobas,bronze,1975-12-29 02:53:50,Winterthur,todo
+241,Arthur Wright,gold,1976-11-28 12:00:19,Kreuzlingen,todo
+242,John Costa,bronze,2002-02-23 21:33:25,Sankt Gallen,todo
+243,Steve Wells,bronze,1966-03-31 23:58:18,Zürich,todo
+244,Lisa Gonzalez,silver,1968-01-27 01:58:54,Zürich,todo
+245,Robert Fernandez,bronze,1988-12-11 19:33:03,St Gallen,todo
+246,Eugene Langton,bronze,1978-11-27 07:02:34,Winterthur,todo
+247,Josh Best,bronze,1975-11-22 10:58:10,Uster,todo
+248,Danny Whitener,silver,1971-08-03 23:52:05,Zürich,todo
+249,Susan Keene,bronze,2003-05-20 04:02:30,Sankt Gallen,todo
+250,Stephanie Williams,gold,1951-04-26 09:21:23,Uster,todo
+251,Clifton Floyd,gold,1955-03-20 15:25:25,Uster,todo
+252,Billie Sutton,gold,1977-09-14 02:47:08,St. Gallen,todo
+253,Scott Decaire,silver,1960-07-25 04:09:49,Gossau,todo
+254,Etta Grabowski,gold,1958-03-27 03:27:28,Frauenfeld,todo
+255,John Roberson,gold,1962-01-05 00:40:36,Buelach,todo
+256,Vicky Lee,bronze,1990-06-01 23:49:42,Sankt Gallen,todo
+257,Holly Norwood,gold,1993-01-25 05:11:42,Sankt Gallen,todo
+258,Nathan Acord,gold,1972-02-17 00:27:00,Buelach,todo
+259,Sharita Marrero,silver,1987-03-01 09:35:44,Gossau,todo
+260,Luis Smith,gold,1997-02-05 21:42:53,St Gallen,todo
+261,Walter Brown,bronze,1985-02-07 22:07:45,Sankt Gallen,todo
+262,Williams Landford,gold,1982-10-24 17:12:34,Romanshorn,todo
+263,Mitchell Campos,bronze,1951-12-28 22:24:34,Bülach,todo
+264,Anita Young,silver,1957-12-27 14:20:50,Romanshorn,todo
+265,Elsa Mcmahon,silver,1967-01-23 20:53:03,St Gallen,todo
+266,Jennie Mcmahon,gold,1960-03-04 10:41:34,Wil,todo
+267,Novella Delossantos,silver,1970-09-15 08:49:01,Romanshorn,todo
+268,Christine Shelley,silver,1983-06-07 21:24:31,St Gallen,todo
+269,Anthony Lindley,gold,1960-08-19 08:35:09,Bülach,todo
+270,David Ferguson,bronze,1990-01-19 18:33:39,St Gallen,todo
+271,Louise Thorpe,bronze,2004-02-15 02:02:16,St. Gallen,todo
+272,Edward Karlin,bronze,1963-07-10 09:20:07,Uster,todo
+273,George King,silver,1978-02-16 05:57:11,Bülach,todo
+274,Lisa Kitamura,gold,1986-05-20 18:31:09,Kreuzlingen,todo
+275,Vincent Singletary,silver,1994-10-17 11:36:12,St. Gallen,todo
+276,Karla Molnar,gold,1969-03-05 20:04:42,Gossau,todo
+277,Jerry Lindsey,gold,1956-01-28 21:57:55,Zuerich,todo
+278,Ann Quick,bronze,1992-07-06 21:51:10,Wil,todo
+279,Terrance Pfundt,bronze,1982-03-22 15:20:44,Gossau,todo
+280,Michelle Todd,gold,1968-08-16 12:16:37,Bülach,todo
+281,Felicia Simon,bronze,1950-08-01 16:32:43,Buelach,todo
+282,Hallie Moore,bronze,1978-03-31 09:46:57,Zürich,todo
+283,Michael Pirtle,bronze,2003-05-15 12:41:46,Gossau,todo
+284,Anne Kropf,gold,1955-02-19 16:41:31,Buelach,todo
+285,Quintin Mccormick,gold,1968-06-24 11:12:55,Zürich,todo
+286,Raul Patton,silver,1958-02-05 09:38:28,Sankt Gallen,todo
+287,Elaine Wolfe,silver,1965-09-28 01:30:14,Zuerich,todo
+288,Anita Schreyer,gold,1960-05-18 07:26:30,Frauenfeld,todo
+289,Michael Lane,bronze,1999-10-13 23:38:08,St. Gallen,todo
+290,Randy Meyer,bronze,1957-08-31 20:29:13,Kreuzlingen,todo
+291,Daniel Ryan,bronze,1993-03-02 07:54:23,Sankt Gallen,todo
+292,Lloyd Larson,silver,1974-02-14 07:36:53,Kreuzlingen,todo
+293,Hilda Visvardis,gold,2000-02-21 22:17:02,Bülach,todo
+294,Jon Mccaskill,silver,1991-07-22 12:30:26,Sankt Gallen,todo
+295,Gregory Rievley,silver,1963-11-08 17:59:19,Zuerich,todo
+296,Samuel Gibson,gold,1991-06-25 11:49:19,Zuerich,todo
+297,Johnathan Rochester,gold,1999-02-07 15:41:20,Zuerich,todo
+298,Patricia Crespin,bronze,1978-09-13 18:33:54,Sankt Gallen,todo
+299,Julia Hines,bronze,1962-04-13 02:43:27,St. Gallen,todo
+300,George Ellis,gold,1976-06-04 07:13:51,Zuerich,todo
+301,Robert Neyhart,bronze,1964-03-22 05:20:55,Sankt Gallen,todo
+302,Richard Givens,gold,1996-10-09 01:24:18,Bülach,todo
+303,Brooke Chapman,silver,1976-09-03 00:46:09,Zuerich,todo
+304,Grace Kinneman,bronze,1972-05-30 20:32:54,Sankt Gallen,todo
+305,Bruce Smith,bronze,1969-03-11 00:13:02,Sankt Gallen,todo
+306,Stephen Peterson,gold,1996-08-10 12:10:11,Gossau,todo
+307,Sally Bjorseth,silver,1979-08-09 21:22:15,St Gallen,todo
+308,Cassandra Horton,bronze,1995-08-03 11:46:10,Sankt Gallen,todo
+309,Ethel Washington,gold,1991-08-23 18:48:26,Gossau,todo
+310,Carrie Corona,gold,1973-09-07 22:15:04,Bülach,todo
+311,Lisa Smith,silver,1979-05-24 17:10:13,Kreuzlingen,todo
+312,Michael Naiman,silver,1986-12-25 13:32:39,Kreuzlingen,todo
+313,Mary Evanson,gold,1960-03-09 03:26:48,Gossau,todo
+314,Justin Alexander,silver,1965-08-13 11:04:26,Zürich,todo
+315,Carol Sieracki,gold,1998-02-14 06:07:35,Romanshorn,todo
+316,Albert Frey,gold,1955-10-17 18:55:26,Wil,todo
+317,Kenneth Young,silver,1974-01-04 00:24:49,St. Gallen,todo
+318,Rita Kim,gold,1973-02-01 10:53:04,Sankt Gallen,todo
+319,Javier Wallace,silver,1992-02-01 22:04:07,Buelach,todo
+320,Sherry Rosenberger,gold,1993-12-31 14:11:15,Gossau,todo
+321,Erna Manning,silver,1988-11-17 12:57:16,Wil,todo
+322,Brian Smith,gold,1960-12-26 06:02:14,St Gallen,todo
+323,Clinton Gonzalez,gold,1988-09-21 04:16:02,Gossau,todo
+324,Carlos Hogan,gold,1970-12-29 06:56:09,Uster,todo
+325,Rick Plack,gold,1975-05-02 11:29:36,Sankt Gallen,todo
+326,Reginald Jaremka,bronze,1977-04-14 07:07:15,Wil,todo
+327,Veronica Inoue,silver,1992-01-25 12:13:54,Wil,todo
+328,Hugh Rice,bronze,1983-11-04 16:48:45,Frauenfeld,todo
+329,Kenneth Garcia,bronze,1961-09-18 14:50:29,Sankt Gallen,todo
+330,Betty Luther,bronze,1998-07-03 04:29:19,Buelach,todo
+331,Arthur Fischer,gold,1953-08-05 10:01:00,Uster,todo
+332,Betty Daniels,silver,1982-12-22 09:31:35,Kreuzlingen,todo
+333,Miranda Grijalva,bronze,1951-09-25 08:09:15,Frauenfeld,todo
+334,Sabrina Wiggins,bronze,2003-12-31 06:13:27,Gossau,todo
+335,Kai Kindle,gold,1976-11-22 15:40:34,Zürich,todo
+336,Edmund Ledbetter,bronze,1993-06-12 22:52:06,Bülach,todo
+337,Ronald Dietrich,bronze,1955-08-19 15:06:43,Uster,todo
+338,Ashley Gauger,silver,1992-03-12 09:27:40,Gossau,todo
+339,Mildred Turner,gold,1985-07-27 00:09:46,Winterthur,todo
+340,Sandra Ford,silver,1991-09-30 18:14:00,Buelach,todo
+341,Steven Vance,gold,1983-03-06 00:19:04,Sankt Gallen,todo
+342,Guillermo Hughes,gold,1955-11-11 00:22:31,Buelach,todo
+343,Amanda Kemerer,bronze,1957-05-13 00:11:20,Romanshorn,todo
+344,Robert Rodriguez,silver,1978-04-28 08:55:13,Winterthur,todo
+345,Anita Owens,silver,1985-11-16 15:01:48,Gossau,todo
+346,Juanita Krizan,bronze,1971-07-01 07:32:00,Zuerich,todo
+347,James Ibarra,bronze,1973-09-26 20:24:30,Zürich,todo
+348,Danny Tavares,silver,1991-12-03 00:47:38,Kreuzlingen,todo
+349,Debbie Trilli,bronze,1980-08-31 09:24:51,Uster,todo
+350,Anna George,bronze,1950-04-24 00:01:40,Zuerich,todo
+351,Marissa Snyder,bronze,1997-02-23 08:49:33,St Gallen,todo
+352,Eva Miller,bronze,1960-11-01 22:11:09,Kreuzlingen,todo
+353,Michael Wilson,gold,1993-11-02 06:13:46,Zürich,todo
+354,Archie Parker,silver,1966-02-03 06:38:50,Uster,todo
+355,Kaylee Reynolds,silver,1978-10-22 12:28:44,Sankt Gallen,todo
+356,Christopher Shaw,silver,1972-10-24 05:03:41,Gossau,todo
+357,Kevin Galbo,bronze,2001-09-25 12:49:56,Buelach,todo
+358,Johnny Thon,silver,1955-06-03 01:20:13,Sankt Gallen,todo
+359,Marlene Billingsley,bronze,1971-01-31 21:12:31,Zürich,todo
+360,Brandon Mays,silver,1984-07-15 07:31:00,Winterthur,todo
+361,Dana Brown,gold,1972-06-01 18:29:00,Wil,todo
+362,David Becker,silver,2003-08-20 12:03:39,Gossau,todo
+363,Ann Eckhardt,silver,1971-09-24 22:45:58,St. Gallen,todo
+364,Nora Harley,bronze,1956-06-14 09:21:09,Zürich,todo
+365,Lawrence Gustafson,silver,1963-02-12 02:14:58,Zürich,todo
+366,Nancy Connolly,silver,1957-10-10 15:05:47,Zürich,todo
+367,Thomas Henley,gold,1973-11-14 08:04:32,Uster,todo
+368,Marie Ritter,silver,2001-02-22 13:09:00,St. Gallen,todo
+369,Travis Weisman,silver,1986-11-18 10:08:18,Zürich,todo
+370,Doris Felton,gold,1954-04-11 17:37:09,St. Gallen,todo
+371,Larry Cunningham,gold,1957-04-11 13:56:58,Winterthur,todo
+372,Sylvia Wagner,gold,1994-04-01 01:52:43,Sankt Gallen,todo
+373,William Zacharias,silver,2004-12-17 01:45:31,Gossau,todo
+374,Philip Warney,bronze,2003-05-28 02:41:27,St. Gallen,todo
+375,Benito Lunsford,bronze,1999-06-10 12:47:52,St. Gallen,todo
+376,Janice Garrett,gold,1999-05-19 07:30:16,Uster,todo
+377,Timothy Glory,silver,1951-03-10 20:29:14,Frauenfeld,todo
+378,Lisa Ayers,gold,1961-07-21 06:00:40,Buelach,todo
+379,Russell Hartley,silver,1974-01-28 02:26:19,Frauenfeld,todo
+380,Freddie Parks,gold,1980-12-28 23:34:56,Sankt Gallen,todo
+381,Jeffrey Hannah,bronze,1985-04-27 02:33:42,Kreuzlingen,todo
+382,Sharon Black,bronze,1956-10-27 12:40:28,Sankt Gallen,todo
+383,Arthur Olmos,bronze,1958-06-09 07:38:51,Buelach,todo
+384,Paul Hernandez,bronze,1962-04-06 00:09:49,Buelach,todo
+385,Erin Kearns,silver,1966-09-16 17:13:40,Uster,todo
+386,Connie Rudd,silver,1950-10-01 00:36:26,Kreuzlingen,todo
+387,Shannon Elder,silver,1978-11-04 23:30:28,Buelach,todo
+388,Malcolm Wofford,bronze,1985-10-12 22:30:58,Uster,todo
+389,Barbara Shaw,gold,1975-09-30 09:50:44,Kreuzlingen,todo
+390,Kelly Sledge,bronze,1952-02-13 13:45:43,Romanshorn,todo
+391,Angela Eash,silver,1968-12-25 21:39:16,Winterthur,todo
+392,Carolyn Roberts,silver,1966-02-06 18:51:28,St Gallen,todo
+393,Harvey Moreschi,gold,1999-04-29 17:17:13,Zuerich,todo
+394,Polly Wray,silver,1960-12-16 00:58:37,Wil,todo
+395,Henry Wolfe,bronze,1991-05-28 13:26:34,Frauenfeld,todo
+396,Mary Miles,silver,1999-12-10 18:26:08,Wil,todo
+397,Shirley Emory,silver,1951-09-05 19:27:57,Gossau,todo
+398,Robert Lee,silver,1956-12-21 02:03:52,Zürich,todo
+399,Verna Willis,bronze,1963-03-03 06:25:26,Sankt Gallen,todo
+400,Charles Long,gold,1977-02-20 00:00:39,Zuerich,todo
+401,Hillary Hewes,silver,2002-09-27 00:24:15,Wil,todo
+402,Abby Brown,bronze,1963-07-30 08:57:55,Sankt Gallen,todo
+403,Dion Slaton,bronze,1982-05-13 00:15:20,St. Gallen,todo
+404,Thea Mccoy,silver,1992-12-24 21:49:03,Zuerich,todo
+405,Danny Sellers,silver,1951-05-02 03:28:30,St Gallen,todo
+406,Anna Gauthier,gold,1955-09-24 05:27:14,Zürich,todo
+407,Hans Fridley,gold,1967-02-12 00:25:14,Kreuzlingen,todo
+408,Boyd Evans,gold,1970-06-17 04:32:49,Gossau,todo
+409,Shawn Thomas,gold,2002-08-18 10:21:58,Wil,todo
+410,Jeremy Johnson,gold,1989-09-10 01:27:29,Winterthur,todo
+411,Deborah Lai,silver,1952-11-28 15:28:31,Sankt Gallen,todo
+412,David Porter,silver,1974-12-22 15:56:33,Kreuzlingen,todo
+413,Marina Belew,gold,1967-03-18 12:24:32,Frauenfeld,todo
+414,Donna Topel,gold,1977-01-02 15:57:47,Bülach,todo
+415,Billy Martinez,gold,1966-11-09 14:42:38,Gossau,todo
+416,Elizabeth Ruse,bronze,1981-08-10 21:47:52,St. Gallen,todo
+417,Louis Funchess,silver,1956-11-09 03:33:35,Buelach,todo
+418,Leonard Krapp,bronze,1951-02-10 18:09:41,Zuerich,todo
+419,Terry Kelly,gold,1974-03-16 11:25:26,St. Gallen,todo
+420,Debra Anderson,gold,2002-01-12 00:30:10,Sankt Gallen,todo
+421,Collette Gonzalez,bronze,1982-10-11 06:32:11,Winterthur,todo
+422,Shanna Martin,gold,2001-10-23 20:03:49,Gossau,todo
+423,Elizabeth Greenberg,gold,1987-10-23 23:36:00,Romanshorn,todo
+424,Brenda Burke,bronze,1997-06-10 15:56:53,Kreuzlingen,todo
+425,Maria Erickson,bronze,1954-05-24 14:06:13,Zuerich,todo
+426,Hope Lawrence,gold,1994-07-25 21:52:06,Zuerich,todo
+427,Mitchell Byrd,gold,1957-11-09 04:52:54,Gossau,todo
+428,Angela Barnett,silver,1997-10-02 14:00:53,Gossau,todo
+429,Nadine Fletcher,gold,1959-11-27 18:10:57,Gossau,todo
+430,Curtis Mcbride,silver,1971-02-28 02:28:13,Bülach,todo
+431,Beth Hernandez,silver,1965-09-05 20:37:28,St Gallen,todo
+432,Candy Lawrence,gold,1977-11-18 08:43:44,Bülach,todo
+433,Sarah Arnold,silver,1953-09-28 23:30:58,Winterthur,todo
+434,Mabel Cooper,gold,1986-08-03 11:25:24,Sankt Gallen,todo
+435,Melissa Pope,gold,1982-01-25 17:21:20,Buelach,todo
+436,Larry Barfield,gold,1974-01-26 08:04:32,Kreuzlingen,todo
+437,Jason Batten,gold,1956-03-12 21:21:11,Romanshorn,todo
+438,Mary Zanella,gold,1962-11-21 07:11:11,Frauenfeld,todo
+439,Jack Precythe,gold,1986-05-31 04:14:50,Bülach,todo
+440,Mary Shinn,silver,1956-08-08 20:25:53,Uster,todo
+441,Jane Lavin,silver,1970-04-10 03:20:36,Gossau,todo
+442,Richard Johnson,silver,1980-03-17 10:01:24,Zuerich,todo
+443,Xiao Wyatt,silver,1973-12-14 02:26:49,Wil,todo
+444,Betty Parsons,bronze,1997-10-03 15:57:47,St Gallen,todo
+445,Samuel Maddrey,bronze,1982-02-17 05:44:34,Gossau,todo
+446,Nathaniel Johnson,gold,1959-02-04 15:34:34,St. Gallen,todo
+447,Gregory Ingram,bronze,1983-07-14 15:48:19,St Gallen,todo
+448,Josephine Pullen,silver,1962-04-30 13:25:57,Wil,todo
+449,Billie Smith,bronze,1986-08-12 03:07:42,St. Gallen,todo
+450,Leroy Moore,gold,1993-03-23 21:22:48,Frauenfeld,todo
+451,Lisa Hudgins,bronze,1973-03-18 13:21:15,Bülach,todo
+452,James Nixon,silver,1981-07-11 04:47:02,Romanshorn,todo
+453,Jason Williams,bronze,1973-11-03 22:46:31,Kreuzlingen,todo
+454,Alton Zabawa,silver,1976-04-11 04:08:15,St. Gallen,todo
+455,Cynthia Morris,gold,1988-07-13 08:24:17,Buelach,todo
+456,David Blank,bronze,1976-10-17 07:58:03,Wil,todo
+457,William Duskey,gold,1958-10-18 15:58:12,Zürich,todo
+458,Mario Smith,gold,1969-02-09 15:37:52,St Gallen,todo
+459,Robert Reid,gold,1957-11-30 03:20:51,Gossau,todo
+460,Addie Okajima,bronze,1987-04-15 09:47:49,Zürich,todo
+461,Lindsey Anderson,gold,1996-10-17 10:16:31,Gossau,todo
+462,Le Tefera,bronze,1991-12-13 05:59:52,Sankt Gallen,todo
+463,Keith Brown,bronze,1967-11-24 19:41:35,Romanshorn,todo
+464,Chad Nelson,gold,1965-07-08 10:17:50,Buelach,todo
+465,Robert Francis,gold,1966-06-14 21:40:16,Wil,todo
+466,Nola Kazee,silver,1969-05-10 02:26:42,St Gallen,todo
+467,Francis Christopher,bronze,1962-03-27 17:45:06,Gossau,todo
+468,Gene Eaton,silver,2002-10-20 00:47:47,Romanshorn,todo
+469,Verna Black,silver,1998-06-01 14:19:49,St Gallen,todo
+470,George Land,gold,1973-10-13 22:22:05,Wil,todo
+471,Shirley Berry,gold,1998-07-14 05:02:52,Frauenfeld,todo
+472,Alan Gallagher,silver,1970-01-14 17:37:24,Frauenfeld,todo
+473,Fred Jackson,bronze,1961-10-29 15:52:55,Bülach,todo
+474,Joan Meister,gold,1953-08-23 17:39:46,St. Gallen,todo
+475,Mollie Soucier,bronze,1985-01-18 17:12:10,Buelach,todo
+476,Gregory Casbarro,gold,1999-05-01 15:22:31,Kreuzlingen,todo
+477,Rhonda Thompson,gold,1972-05-25 10:24:35,Frauenfeld,todo
+478,Mario Yasutomi,bronze,1977-08-29 14:29:50,Romanshorn,todo
+479,Raymond Hooper,silver,1963-06-19 22:29:20,Wil,todo
+480,Charlotte Williams,silver,1993-10-19 21:23:20,Zürich,todo
+481,Howard Segal,silver,1953-07-14 18:59:57,Buelach,todo
+482,Robert Caldwell,bronze,1998-03-25 08:57:19,Zuerich,todo
+483,Marcus Mendoza,bronze,1986-10-10 00:58:49,Winterthur,todo
+484,Wilma Jones,gold,1986-11-07 21:35:16,St Gallen,todo
+485,Marshall Mills,bronze,1989-12-22 01:12:46,Frauenfeld,todo
+486,Edmond Walko,gold,1990-06-02 00:14:10,Wil,todo
+487,Clyde Boris,silver,1995-01-31 02:57:43,Gossau,todo
+488,Saundra Crichton,bronze,1997-04-22 04:31:14,St Gallen,todo
+489,Timothy Fredette,bronze,1976-04-26 15:12:28,Gossau,todo
+490,Grace Moore,gold,2002-09-26 17:05:05,Kreuzlingen,todo
+491,Hayley Jenkins,gold,1974-04-24 03:06:41,Zuerich,todo
+492,Owen Jordon,silver,1990-07-28 20:49:07,Romanshorn,todo
+493,Kum Wilson,silver,2002-11-30 20:01:39,St. Gallen,todo
+494,Ashley Child,bronze,1984-07-14 22:49:36,St Gallen,todo
+495,Cleo Dorich,bronze,1998-03-21 04:18:31,Gossau,todo
+496,Hector Glasby,gold,1999-01-19 06:33:27,Frauenfeld,todo
+497,Jeanette Meeker,silver,1960-12-18 04:59:23,St. Gallen,todo
+498,Gregg Green,silver,1988-06-25 07:52:15,St. Gallen,todo
+499,Andrew Clouser,gold,1959-02-16 21:58:55,Gossau,todo
+500,Santos Lowry,bronze,1950-09-04 17:47:26,Gossau,todo
+501,Sabrina George,gold,2001-12-02 07:19:53,St. Gallen,todo
+502,Ronda Slaughter,bronze,1964-07-09 03:26:05,Kreuzlingen,todo
+503,Margarita Baise,silver,1998-11-19 09:21:35,Zuerich,todo
+504,Doris Scott,silver,1987-04-18 06:30:08,Zuerich,todo
+505,Joanne Buchner,gold,1960-05-22 15:23:12,Uster,todo
+506,Robert Jackson,gold,1979-10-17 06:19:20,Winterthur,todo
+507,Nancy Serrano,gold,2003-06-01 02:14:12,Bülach,todo
+508,Edelmira Mcfaddin,silver,1999-10-01 10:48:07,Frauenfeld,todo
+509,Theresa Vellekamp,bronze,1952-09-19 19:59:30,Buelach,todo
+510,Tara Smith,gold,1963-11-13 04:53:56,Frauenfeld,todo
+511,Dawn Borrow,gold,1964-10-27 09:42:07,Uster,todo
+512,Amber Oshima,gold,1964-03-09 00:03:18,Gossau,todo
+513,Rodolfo Wheeler,bronze,2000-05-02 03:38:48,Sankt Gallen,todo
+514,William Wooten,bronze,1996-10-03 10:35:19,Sankt Gallen,todo
+515,Margaret Walker,silver,1961-03-12 15:08:30,St Gallen,todo
+516,Javier Woods,bronze,2000-04-27 22:29:49,Zuerich,todo
+517,Raymond Hogue,bronze,1957-01-10 20:43:42,St. Gallen,todo
+518,Myra Cordray,bronze,1981-01-18 06:02:16,Winterthur,todo
+519,Cynthia Nanasy,silver,1962-06-30 14:04:08,Zuerich,todo
+520,Masako Fletcher,bronze,1985-03-20 06:36:12,Zuerich,todo
+521,Ronald Islam,bronze,1955-11-25 11:54:38,Winterthur,todo
+522,Mildred Folden,gold,1974-10-09 17:21:33,Zürich,todo
+523,Amy Monte,bronze,1961-06-28 15:45:59,Zürich,todo
+524,Jordan Dykes,gold,1968-03-22 00:06:22,Sankt Gallen,todo
+525,Eric Gamboa,gold,1963-03-13 07:21:47,Winterthur,todo
+526,Lucas Thompson,gold,1982-01-23 15:59:06,Uster,todo
+527,Martha Wachter,silver,1966-01-11 19:24:37,Winterthur,todo
+528,Roger Vellucci,silver,1984-01-16 05:55:37,Gossau,todo
+529,Malcolm Morrison,gold,1968-09-17 00:55:51,St. Gallen,todo
+530,Curtis Dodds,silver,1957-02-07 18:13:59,Gossau,todo
+531,Jack Jansen,bronze,1985-12-21 07:18:27,Sankt Gallen,todo
+532,Marjorie Jones,silver,1981-06-05 21:44:56,Buelach,todo
+533,Tyler Billups,gold,1953-05-18 08:34:32,Sankt Gallen,todo
+534,Goldie Linder,gold,1967-07-30 03:34:15,Bülach,todo
+535,Robert Carpenter,silver,1966-10-06 12:09:02,Sankt Gallen,todo
+536,Clifford Ward,bronze,1966-10-11 20:50:17,Uster,todo
+537,Elvin Day,silver,2003-09-21 03:26:53,Frauenfeld,todo
+538,Donald Wickline,silver,1961-06-01 01:29:20,Romanshorn,todo
+539,Erich Briggs,gold,1987-08-15 01:57:30,Romanshorn,todo
+540,Juan Webster,gold,2001-05-23 02:27:24,Zuerich,todo
+541,Thomas Oquendo,gold,1958-05-25 23:11:59,Bülach,todo
+542,Sonya Perna,bronze,1980-03-03 08:35:31,Wil,todo
+543,Dennis Magos,bronze,1999-10-01 02:50:36,Gossau,todo
+544,John Colbert,silver,1975-12-12 01:12:24,Wil,todo
+545,Joann Jones,bronze,1982-12-23 00:22:31,Kreuzlingen,todo
+546,Frank Neyra,silver,2001-02-02 01:56:55,Romanshorn,todo
+547,Velma Somerville,gold,1961-11-19 15:00:02,Winterthur,todo
+548,Diana Scrabeck,silver,1973-08-13 03:54:26,Zuerich,todo
+549,Robert Bailey,bronze,1971-07-05 20:33:55,Winterthur,todo
+550,Thomas Burt,bronze,1971-10-18 14:11:53,Wil,todo
+551,Anthony Graham,gold,2001-06-06 05:26:07,Gossau,todo
+552,Sheryl Kershaw,gold,1963-11-13 04:19:22,St. Gallen,todo
+553,Ismael Mccarty,silver,1967-07-24 22:44:13,Kreuzlingen,todo
+554,Nicole Mattocks,gold,1965-05-16 16:00:35,Winterthur,todo
+555,Carolyn Verduzco,gold,1960-06-04 09:09:44,Winterthur,todo
+556,Mary Wallin,silver,1952-09-17 06:24:01,Zuerich,todo
+557,Bettie Wainwright,silver,1954-04-11 00:45:34,St. Gallen,todo
+558,Charles Volpe,gold,1958-02-12 14:54:25,Gossau,todo
+559,Andrea Sakoda,silver,1990-02-03 01:58:01,Kreuzlingen,todo
+560,Amber Meyer,silver,1955-09-21 13:42:44,Zuerich,todo
+561,Kathleen Wilton,bronze,1998-03-07 04:18:26,Buelach,todo
+562,Stacy Campos,bronze,1979-06-26 00:42:11,Kreuzlingen,todo
+563,Dana Pereyra,gold,1988-05-20 14:30:50,Gossau,todo
+564,Melanie Calhoun,gold,1974-07-02 03:04:24,Winterthur,todo
+565,Jose Moss,gold,1970-12-19 18:34:19,Romanshorn,todo
+566,Kathy Tracy,bronze,1954-08-22 05:09:35,Frauenfeld,todo
+567,William Williams,silver,1976-11-23 14:02:59,Romanshorn,todo
+568,Michael Lennard,silver,1991-07-30 02:13:39,Kreuzlingen,todo
+569,Ronald Whitford,gold,1999-12-13 21:09:47,Sankt Gallen,todo
+570,Angela Tatum,silver,2003-10-06 08:27:08,Wil,todo
+571,Kenneth Machenry,gold,1953-01-22 16:17:49,Uster,todo
+572,Veronica Laird,bronze,2003-07-25 00:07:44,Zuerich,todo
+573,Ethel Flowers,silver,1994-08-14 01:16:12,Bülach,todo
+574,James Jordan,gold,2002-07-11 20:15:58,Zuerich,todo
+575,Percy Mcintyre,gold,1993-02-20 15:18:18,St. Gallen,todo
+576,Grace Torres,gold,1950-05-20 14:13:33,Winterthur,todo
+577,Sherry Albright,silver,1956-02-27 17:45:47,St Gallen,todo
+578,Grant Horne,bronze,1962-10-27 15:24:41,Romanshorn,todo
+579,Nora Bryant,gold,1990-03-13 09:08:22,Sankt Gallen,todo
+580,Eric Bolden,gold,1992-12-06 01:24:53,Winterthur,todo
+581,John Perez,silver,1997-01-15 12:39:01,Wil,todo
+582,Billie Rinaldi,silver,1996-06-19 04:15:14,Kreuzlingen,todo
+583,Ervin Burgin,gold,1999-04-17 08:12:42,Winterthur,todo
+584,Dean Morrison,bronze,1976-05-07 10:20:21,Wil,todo
+585,Gerry Garcia,silver,1989-02-27 09:03:04,Buelach,todo
+586,Charlotte Kelly,gold,1971-03-31 08:02:26,Uster,todo
+587,Kerry Howard,bronze,1987-07-22 00:25:45,Gossau,todo
+588,William Kearney,bronze,1952-03-20 09:21:17,Buelach,todo
+589,Jon Frederick,gold,1984-12-18 19:47:08,Frauenfeld,todo
+590,Lydia Beasley,silver,1983-10-31 23:23:26,Bülach,todo
+591,Philip Lough,bronze,1971-06-11 08:25:00,St Gallen,todo
+592,Barry Love,gold,1998-06-06 23:08:56,St Gallen,todo
+593,Edward Navarra,silver,1956-04-14 05:56:54,Gossau,todo
+594,Nancy Mullins,bronze,1979-03-12 04:17:41,Kreuzlingen,todo
+595,Juan Sullivan,silver,2000-05-08 04:37:46,Kreuzlingen,todo
+596,Wilbur Taylor,gold,1967-08-19 23:00:45,Frauenfeld,todo
+597,Lupe Silver,gold,1954-01-23 16:37:13,Gossau,todo
+598,Nellie Andersen,gold,1965-07-18 02:01:55,Romanshorn,todo
+599,Anne Crosby,gold,1999-01-22 06:05:38,Zürich,todo
+600,Francisco Caddel,silver,1979-08-11 00:49:55,Zuerich,todo
+601,Kimberly Guillory,silver,1958-07-26 23:10:47,St. Gallen,todo
+602,Caprice Hodgkins,silver,1954-05-28 08:20:07,Bülach,todo
+603,Linda Vancamp,silver,1998-07-03 05:07:17,Gossau,todo
+604,Howard Orta,silver,1978-10-20 21:39:31,Wil,todo
+605,Mary Cameron,silver,1950-04-07 23:33:08,Gossau,todo
+606,Edgar Smith,bronze,1999-05-10 21:58:35,Wil,todo
+607,Jennifer Castaneda,bronze,1967-02-08 00:53:13,Zuerich,todo
+608,Daniel Weikel,gold,1959-02-08 10:07:25,St. Gallen,todo
+609,David Weathers,gold,1981-09-06 12:46:02,St Gallen,todo
+610,Ruth Marlowe,silver,1984-01-02 07:30:18,Winterthur,todo
+611,Micheal Kelly,silver,1962-09-11 07:00:05,Winterthur,todo
+612,Mary Johnson,silver,1952-10-22 07:40:52,Zuerich,todo
+613,Anita Smith,bronze,1953-07-20 13:34:22,Zürich,todo
+614,Lisa Wesley,silver,1977-10-23 09:01:03,Winterthur,todo
+615,Delores Hernandez,silver,1958-01-28 11:05:07,Buelach,todo
+616,Michele Jacobs,silver,1971-07-08 10:49:17,St Gallen,todo
+617,Dolores Rodriguez,bronze,1976-11-19 07:49:04,St. Gallen,todo
+618,Jennifer Shepard,gold,1964-02-02 09:00:28,St. Gallen,todo
+619,Mary Martin,silver,1995-12-22 04:55:24,Kreuzlingen,todo
+620,Louise Taylor,bronze,1967-08-08 14:27:32,Frauenfeld,todo
+621,Brett Castillo,silver,1970-07-07 02:54:48,Zürich,todo
+622,Joe Blackford,gold,1983-06-02 17:15:27,Buelach,todo
+623,Gary Williams,silver,1965-11-30 09:30:53,Kreuzlingen,todo
+624,Charlene Martin,gold,1988-01-21 00:59:52,Buelach,todo
+625,Gary Gerula,bronze,1994-09-21 13:53:38,Sankt Gallen,todo
+626,Kimberly Gaspar,bronze,1954-10-17 07:44:43,St. Gallen,todo
+627,Kara Slavin,gold,1996-08-27 20:49:01,Zuerich,todo
+628,Carlos Balderas,silver,1995-03-27 10:44:04,Zuerich,todo
+629,Lorenzo Hayes,gold,1964-02-16 12:46:46,Uster,todo
+630,Betty Adkins,gold,1993-12-16 16:49:40,St Gallen,todo
+631,Helen Anderson,silver,1993-01-01 14:12:28,Buelach,todo
+632,Salvatore Mccarter,gold,1960-05-27 02:24:04,Romanshorn,todo
+633,David Figueroa,bronze,1977-10-03 14:59:34,Wil,todo
+634,Curtis Jenkin,bronze,1999-09-09 01:48:45,Gossau,todo
+635,Gloria Schulle,silver,2001-06-21 03:12:07,Sankt Gallen,todo
+636,Karima Sandoval,gold,1984-06-11 09:49:09,Sankt Gallen,todo
+637,Allison Murdock,bronze,1951-12-31 10:33:39,Wil,todo
+638,Narcisa Markrof,bronze,1978-03-08 10:09:38,Bülach,todo
+639,Vida Osburn,bronze,1982-06-20 14:17:20,Winterthur,todo
+640,Sabrina Thomas,silver,2001-09-26 13:17:48,Frauenfeld,todo
+641,Bruce Cantrell,bronze,1957-08-04 03:34:50,Kreuzlingen,todo
+642,Julie Epperly,gold,1951-10-19 02:59:18,Bülach,todo
+643,Tracy Doucet,silver,1963-08-20 01:21:01,Romanshorn,todo
+644,Tynisha Premo,gold,2004-12-31 02:39:32,Romanshorn,todo
+645,Paul Ray,silver,1999-08-02 09:04:06,St. Gallen,todo
+646,William Schilling,bronze,1978-07-01 12:29:43,Bülach,todo
+647,Shirley Cramer,gold,1994-07-16 04:38:04,Winterthur,todo
+648,Terri Littles,silver,1971-11-10 15:11:19,St. Gallen,todo
+649,Joyce Miranda,bronze,1966-02-20 23:14:06,Winterthur,todo
+650,Ryan Taylor,gold,2003-12-22 14:04:38,St Gallen,todo
+651,Dion Ollie,bronze,1951-05-11 12:45:29,Winterthur,todo
+652,Doyle Hall,bronze,1963-11-29 04:48:18,Uster,todo
+653,Mary Economou,silver,1994-01-01 14:35:41,St. Gallen,todo
+654,Maranda Dyke,bronze,1996-01-21 12:59:00,Buelach,todo
+655,Antonio Schultz,gold,1979-01-20 20:00:36,St Gallen,todo
+656,Johnny Mckeighan,bronze,1992-08-20 17:35:31,Zürich,todo
+657,Evelyn Ward,silver,1982-11-16 09:01:13,Gossau,todo
+658,Ronald Johnson,gold,1996-09-14 15:05:16,Zürich,todo
+659,Murray Scott,silver,1980-03-03 06:44:25,St. Gallen,todo
+660,Arletta Rodriguez,silver,1985-01-17 07:36:13,Bülach,todo
+661,Emma Freed,bronze,1987-12-31 23:53:33,Gossau,todo
+662,Patricia Harper,gold,1991-09-01 23:30:31,St. Gallen,todo
+663,Ramon Adams,silver,1993-05-30 08:50:54,Zürich,todo
+664,Michael Christian,bronze,2002-04-15 03:57:55,Uster,todo
+665,Anita Brown,silver,1974-09-07 09:15:25,Zürich,todo
+666,Shannon Wimberly,bronze,1951-05-09 22:02:16,St Gallen,todo
+667,Jeffery Ayala,bronze,1985-03-01 05:35:39,Frauenfeld,todo
+668,Michael Martin,gold,1996-11-06 14:17:18,Romanshorn,todo
+669,Nick Bader,silver,1991-01-30 11:32:20,Uster,todo
+670,Karla Galindo,gold,1985-07-03 22:25:27,Kreuzlingen,todo
+671,Thomas Ramirez,silver,1968-06-11 04:35:41,Bülach,todo
+672,Dorothy Sorenson,gold,1998-01-15 16:57:29,Gossau,todo
+673,Jamie Briz,gold,1985-01-09 06:14:10,Gossau,todo
+674,Dennis Donahue,gold,1952-02-04 00:34:33,Gossau,todo
+675,Karen Derrick,bronze,1978-07-17 00:41:12,Wil,todo
+676,Michael Anthony,gold,1985-06-09 08:51:21,Gossau,todo
+677,Kelvin Peaslee,silver,1989-02-06 21:43:09,St Gallen,todo
+678,Allen Bridges,silver,1950-04-17 01:31:18,Romanshorn,todo
+679,Susan Monachino,silver,1998-09-09 10:31:50,Romanshorn,todo
+680,Sandra Clendenin,silver,1998-12-26 03:26:22,Sankt Gallen,todo
+681,Ana Didonna,gold,1965-10-08 14:02:47,Kreuzlingen,todo
+682,Paul Hull,silver,1971-10-23 14:58:34,Bülach,todo
+683,Donald Brown,silver,1976-02-04 23:58:40,Winterthur,todo
+684,Jose Stupak,silver,1972-10-19 11:56:32,St Gallen,todo
+685,Gregory Gagnon,bronze,1951-08-14 10:33:38,Zuerich,todo
+686,Joseph Stark,gold,1970-04-10 07:06:44,Sankt Gallen,todo
+687,Jessica Garcia,gold,1975-08-10 06:46:55,Wil,todo
+688,Daniel Anastasiades,bronze,1987-07-12 18:48:18,Frauenfeld,todo
+689,Erica Rogers,silver,1989-07-25 10:10:51,Uster,todo
+690,Brian Stene,silver,1975-09-10 12:24:24,St. Gallen,todo
+691,Ian Price,silver,1983-05-11 05:45:13,Kreuzlingen,todo
+692,Angie Mcraney,gold,1972-10-07 04:44:27,Wil,todo
+693,Mary Dillard,gold,1956-09-14 07:41:47,St Gallen,todo
+694,Rose Piacente,bronze,1960-12-08 04:01:39,Wil,todo
+695,Pamela Wood,bronze,1963-08-08 16:32:32,Wil,todo
+696,Michelle Martin,silver,1972-10-20 18:49:16,Buelach,todo
+697,Beverly Fryer,bronze,2000-04-03 17:01:40,Sankt Gallen,todo
+698,Richard Adkinson,bronze,1973-09-23 23:28:43,St Gallen,todo
+699,Todd Eckhart,silver,1993-06-17 03:22:12,Uster,todo
+700,Lance Moats,gold,1971-12-08 16:53:41,Uster,todo
+701,Antonio Evans,gold,1970-10-31 03:46:38,Kreuzlingen,todo
+702,Gwendolyn Walker,silver,1992-05-07 12:46:25,Wil,todo
+703,Ruth Fitzpatrick,gold,1999-06-10 00:16:56,Uster,todo
+704,David Castano,gold,1984-09-28 00:17:51,Bülach,todo
+705,Adam Beeler,silver,1976-04-16 20:51:21,Sankt Gallen,todo
+706,Christopher Williams,silver,1988-02-28 13:22:18,Gossau,todo
+707,Geraldine Bibbs,silver,1981-05-21 11:01:53,Sankt Gallen,todo
+708,Eduardo Aquilina,silver,1957-09-03 09:14:32,Romanshorn,todo
+709,Zoraida Burditt,silver,1954-11-16 07:55:07,Wil,todo
+710,Juanita Richardson,bronze,1990-07-20 14:55:52,Winterthur,todo
+711,Tiffany Puckett,gold,1976-05-24 21:44:34,Zürich,todo
+712,Norma Echevarria,bronze,1974-06-19 01:50:38,Wil,todo
+713,Reginald Lenters,silver,1978-02-07 06:58:31,Winterthur,todo
+714,Donald White,gold,1960-05-20 04:26:30,Wil,todo
+715,Denis Ratliff,bronze,1981-07-29 04:28:40,Sankt Gallen,todo
+716,John Brinker,silver,1969-04-22 15:38:59,Winterthur,todo
+717,Kyra Caskey,silver,1952-04-03 14:21:42,Zürich,todo
+718,Harry Angles,bronze,1962-05-10 12:14:53,St. Gallen,todo
+719,Felecia Fadden,gold,1998-10-10 22:21:51,Sankt Gallen,todo
+720,Adam Harrell,silver,1981-08-23 12:23:25,Zuerich,todo
+721,Howard Pineda,gold,1958-10-19 07:25:25,Sankt Gallen,todo
+722,Kenneth Duncan,gold,1981-11-02 20:46:49,Gossau,todo
+723,Dennis Schmidt,gold,2003-06-02 11:57:29,Gossau,todo
+724,Young Frazier,bronze,1979-04-30 12:06:18,Sankt Gallen,todo
+725,Tracy Bravo,silver,1970-11-08 04:57:28,Sankt Gallen,todo
+726,Joseph Anderson,bronze,1958-12-14 10:17:39,St. Gallen,todo
+727,Laura Sanders,silver,1995-01-03 10:13:35,St Gallen,todo
+728,Clinton Scott,bronze,1965-10-11 05:31:20,Kreuzlingen,todo
+729,Lisa Mccomb,bronze,1961-06-09 17:26:33,St. Gallen,todo
+730,Kathleen Cooley,gold,1969-10-13 13:28:08,Frauenfeld,todo
+731,Louis Showers,silver,1958-06-13 09:08:57,Zürich,todo
+732,Clarence Osterberg,silver,1955-06-09 05:01:29,St. Gallen,todo
+733,Clark Simpson,gold,1958-04-03 06:16:22,Zürich,todo
+734,Janice Nelson,bronze,1970-11-14 00:55:11,Kreuzlingen,todo
+735,Kathleen Olaughlin,bronze,1984-07-06 20:20:56,Zürich,todo
+736,Jeremy Desmarais,silver,1988-09-22 08:28:38,St. Gallen,todo
+737,Jerry Curiel,silver,1988-06-20 06:26:28,Bülach,todo
+738,Bill Lopez,gold,1992-04-02 03:35:25,Uster,todo
+739,Linda Howell,gold,1978-02-25 22:20:43,Buelach,todo
+740,Kelvin Thomas,silver,1975-10-22 11:31:26,Romanshorn,todo
+741,Patsy Alston,silver,1997-05-06 19:33:43,Gossau,todo
+742,Gregory Thompson,bronze,1969-01-09 23:41:49,Sankt Gallen,todo
+743,Dominic Warren,gold,2002-04-28 00:15:41,Zürich,todo
+744,Wesley Starks,silver,1977-12-16 00:58:00,Gossau,todo
+745,Maryellen Brennan,silver,1999-01-09 12:27:47,St. Gallen,todo
+746,Jerry Wood,bronze,1980-06-12 23:05:35,Zuerich,todo
+747,Chris Matthews,bronze,1967-04-12 03:32:01,Uster,todo
+748,Mary Vance,silver,1967-08-23 05:57:32,Buelach,todo
+749,Rafael Boyd,silver,1994-04-26 20:29:32,Winterthur,todo
+750,Craig Jobe,silver,1977-01-03 21:19:24,Zuerich,todo
+751,Roxanne Nalevanko,bronze,1985-09-14 11:24:57,Gossau,todo
+752,Nathan Dill,gold,1950-02-12 22:47:45,Winterthur,todo
+753,James Ashcraft,gold,1998-06-15 07:42:44,Sankt Gallen,todo
+754,Nell Williams,bronze,1977-08-22 14:44:18,Romanshorn,todo
+755,Robin Davis,gold,1988-10-27 21:49:36,Romanshorn,todo
+756,Anthony Bronder,silver,1970-06-07 12:56:44,Gossau,todo
+757,Robert Tamburri,silver,2003-11-16 15:27:46,Zuerich,todo
+758,Felisha Lyman,silver,1992-04-20 21:50:36,St. Gallen,todo
+759,Jefferey Arvin,bronze,1954-03-31 01:50:44,St Gallen,todo
+760,Marilyn Hedden,silver,1993-04-01 09:08:42,Uster,todo
+761,Brad Wakefield,gold,1997-03-26 20:34:50,St Gallen,todo
+762,Omer Felix,gold,1985-02-23 08:40:23,Romanshorn,todo
+763,Hector Bunting,silver,1989-04-07 07:34:49,Buelach,todo
+764,Karon Burpo,bronze,1958-07-10 18:26:33,Gossau,todo
+765,Karen Lyman,gold,1953-05-01 16:32:26,Wil,todo
+766,Gloria Monroe,bronze,1970-02-01 03:11:15,Zürich,todo
+767,Collin Whitsitt,bronze,1982-07-27 09:29:15,Wil,todo
+768,Rachael Beezley,bronze,1982-02-23 14:32:26,Kreuzlingen,todo
+769,Elizabeth Lincoln,bronze,1983-09-16 01:11:20,Winterthur,todo
+770,William Allen,gold,1978-03-21 13:09:50,Gossau,todo
+771,Rachel Guttirez,silver,2004-01-14 17:37:11,St Gallen,todo
+772,Tammy Morgan,bronze,1956-06-19 13:27:47,Gossau,todo
+773,James Cox,bronze,1988-03-14 19:39:56,Bülach,todo
+774,Linda Carter,gold,1954-01-05 03:30:18,St. Gallen,todo
+775,Allen Drake,gold,1971-04-20 14:00:35,Bülach,todo
+776,Irving Abdullah,bronze,1955-09-10 17:06:09,Frauenfeld,todo
+777,Renee Herrera,bronze,1978-03-03 02:49:49,Gossau,todo
+778,Patricia Perry,bronze,1976-01-03 02:26:03,Sankt Gallen,todo
+779,Andres Kahele,bronze,1950-05-24 13:58:30,Romanshorn,todo
+780,Audrey Cornman,bronze,1960-04-29 22:03:49,St. Gallen,todo
+781,John Louis,bronze,1988-05-05 17:02:39,Bülach,todo
+782,Albert Coore,gold,1997-09-24 16:12:43,Wil,todo
+783,Julie Morel,silver,1974-12-27 11:03:00,Romanshorn,todo
+784,Edwin Hughes,silver,1967-05-08 03:14:15,Zuerich,todo
+785,Charles Mccarthy,bronze,2004-11-25 05:33:24,Sankt Gallen,todo
+786,Charles Fowler,silver,1996-10-11 00:42:55,St Gallen,todo
+787,Joe Breen,gold,1955-02-20 17:30:12,Kreuzlingen,todo
+788,Jewel Michael,gold,1961-04-11 02:19:22,Buelach,todo
+789,Lori Moy,silver,1994-10-04 06:38:53,Zürich,todo
+790,Jenifer Rendon,silver,1956-12-30 15:36:36,Gossau,todo
+791,John Vauters,gold,1981-10-15 05:17:27,Kreuzlingen,todo
+792,Claire Brannan,silver,1975-09-24 16:26:31,Buelach,todo
+793,Allan Gribble,silver,1957-11-22 16:44:12,Bülach,todo
+794,Nelda Zane,gold,1979-12-17 05:23:01,St Gallen,todo
+795,Marcelina Cronin,silver,1963-10-22 21:00:59,St Gallen,todo
+796,Gene Fleury,gold,1974-05-01 09:23:58,St Gallen,todo
+797,Ethel Dickens,silver,1992-05-08 02:06:56,Kreuzlingen,todo
+798,Elizabeth Soto,bronze,1967-09-11 09:31:34,St. Gallen,todo
+799,Kimberly Mangum,gold,1965-07-28 20:28:45,Buelach,todo
+800,Shawn Chavez,bronze,1996-04-03 01:18:34,Buelach,todo
+801,Joann Christensen,silver,1979-10-15 06:28:52,Zürich,todo
+802,Hiram Ferdinand,bronze,1983-09-13 15:21:20,Zürich,todo
+803,Daniel Cole,silver,1975-05-08 02:52:54,Uster,todo
+804,Valerie Demars,silver,1952-08-29 06:26:16,Frauenfeld,todo
+805,Martha Brisco,bronze,2001-12-02 19:12:07,Zürich,todo
+806,John Knight,silver,1972-01-18 13:42:51,Bülach,todo
+807,Mary Mather,gold,1958-03-02 00:27:46,Winterthur,todo
+808,Collin Reeder,silver,1972-02-15 04:13:43,Wil,todo
+809,Frances Davidson,silver,1993-01-13 20:01:32,Bülach,todo
+810,Ralph Crutcher,gold,1992-09-02 13:14:23,St. Gallen,todo
+811,Carole Sanders,silver,1964-07-02 08:48:06,Sankt Gallen,todo
+812,Harry Stockwell,bronze,1951-06-22 13:56:48,Frauenfeld,todo
+813,Arnold Hill,bronze,1981-04-08 06:55:45,Buelach,todo
+814,Agnes Bailey,gold,1968-10-11 06:47:06,Zürich,todo
+815,Lucinda Gonzalez,bronze,1984-05-17 06:57:00,Uster,todo
+816,Peggy Lucas,silver,1984-11-03 04:14:57,Gossau,todo
+817,Steven Pierson,bronze,1965-05-25 16:32:53,Winterthur,todo
+818,Theresa Smyth,bronze,1970-12-24 13:52:36,St Gallen,todo
+819,Leo Mirabal,bronze,1973-10-19 06:06:34,Winterthur,todo
+820,Joseph Briant,gold,1957-12-18 02:34:19,Kreuzlingen,todo
+821,Walter Gonzalez,gold,1987-07-26 14:21:50,Sankt Gallen,todo
+822,Lane Williams,bronze,1999-11-08 06:36:58,Wil,todo
+823,Toni Garcia,bronze,1977-10-15 21:13:54,Frauenfeld,todo
+824,Bobbie Largent,silver,1976-07-22 08:34:07,Bülach,todo
+825,Jaclyn Mcqueen,gold,1963-01-18 23:33:48,Zürich,todo
+826,Kenneth Abney,silver,1991-06-24 08:21:02,Zürich,todo
+827,Ellis Rudasill,bronze,1977-07-12 23:47:45,St Gallen,todo
+828,Marjorie Lopez,silver,1975-06-03 06:51:43,Gossau,todo
+829,John Carrillo,bronze,1961-09-29 20:55:11,Zürich,todo
+830,Cathy Jefferson,gold,1967-10-23 06:52:57,Buelach,todo
+831,Winnie Daniel,bronze,1968-12-25 02:35:54,Buelach,todo
+832,Peggy Lang,bronze,2002-05-04 18:32:23,St Gallen,todo
+833,Frank Bagwell,silver,1964-01-13 20:15:24,Gossau,todo
+834,Shirley Richard,bronze,1966-04-06 04:24:44,Sankt Gallen,todo
+835,Monica Cardenas,gold,1995-07-04 01:31:22,Gossau,todo
+836,Vicki Guy,silver,2000-09-28 00:52:51,Winterthur,todo
+837,Michael Taylor,silver,1960-04-07 13:25:42,Wil,todo
+838,Gary Gibbs,bronze,1974-06-25 00:06:14,Wil,todo
+839,Howard Anderson,bronze,1952-10-02 20:43:59,Zürich,todo
+840,Rebecca Martinez,gold,1967-07-16 06:23:59,St Gallen,todo
+841,Wilson Dabney,bronze,1979-06-05 12:51:45,Buelach,todo
+842,Denise Drew,gold,1955-04-23 17:54:58,Uster,todo
+843,Gladys Hernandez,bronze,1977-06-24 10:50:44,Uster,todo
+844,David Juarez,gold,1950-01-12 04:14:30,Romanshorn,todo
+845,Carlos Craft,silver,1959-08-09 12:07:02,Zürich,todo
+846,Karen Atkinson,gold,1976-04-06 16:52:36,Winterthur,todo
+847,Corey Cooley,gold,1988-02-08 08:31:38,Uster,todo
+848,Thomas Freyermuth,silver,1956-02-17 17:37:23,Gossau,todo
+849,Gerald Beck,silver,1995-12-13 03:13:05,St. Gallen,todo
+850,Mary Coy,bronze,1981-01-18 13:22:52,Zuerich,todo
+851,Dixie Kent,silver,1983-03-08 01:21:45,Romanshorn,todo
+852,Robert Lindsay,silver,1987-08-09 23:55:30,Uster,todo
+853,Malcolm Leatherwood,silver,2002-06-22 19:40:30,Winterthur,todo
+854,Kristen Mcglothlin,bronze,2001-09-11 09:41:31,Frauenfeld,todo
+855,Brandie Smith,silver,1980-02-05 19:03:20,Wil,todo
+856,Anthony Hides,gold,1982-08-31 09:34:19,Kreuzlingen,todo
+857,Kristopher Vercher,gold,1956-12-03 07:07:19,Kreuzlingen,todo
+858,Millard Mccracken,gold,1953-05-03 04:52:28,Bülach,todo
+859,Jay Blackston,gold,1976-08-23 11:31:58,St Gallen,todo
+860,Helen Mcnabb,bronze,1980-01-19 23:17:59,Gossau,todo
+861,Pauline Smith,silver,2001-09-26 18:06:34,Gossau,todo
+862,Brandy Brewer,silver,1978-11-05 04:58:40,St. Gallen,todo
+863,John Gillies,silver,1966-02-24 06:45:41,Kreuzlingen,todo
+864,Phillip Evans,gold,1957-06-27 07:13:29,St Gallen,todo
+865,Cecelia Watkins,bronze,1966-04-08 22:09:52,Kreuzlingen,todo
+866,Mary Ponzi,gold,1972-11-21 21:58:53,Kreuzlingen,todo
+867,Loyd Salcido,silver,1987-10-09 06:33:35,Kreuzlingen,todo
+868,Gary Blom,bronze,1986-12-18 20:01:44,Winterthur,todo
+869,Lulu Hulet,bronze,1963-08-18 07:51:37,Sankt Gallen,todo
+870,Patrick Gill,silver,1954-09-12 20:07:13,Zuerich,todo
+871,Mary Singleton,gold,1968-05-20 10:51:09,Zuerich,todo
+872,Jacquelyn Barnett,gold,1996-07-09 23:52:58,Sankt Gallen,todo
+873,Scott Zwagerman,silver,1956-08-07 21:41:49,Wil,todo
+874,Richard Beebe,silver,1953-02-09 00:08:24,Buelach,todo
+875,Clarence Lorge,bronze,1958-01-10 07:09:06,Kreuzlingen,todo
+876,Christian Gutierrez,bronze,1961-08-21 17:45:16,Winterthur,todo
+877,Doris Lucey,gold,1958-05-18 19:28:19,Romanshorn,todo
+878,Susie Weatherspoon,bronze,1992-09-01 21:54:45,Sankt Gallen,todo
+879,Mary Odom,silver,1968-06-19 12:43:53,Zuerich,todo
+880,Jill Hasse,gold,1957-02-07 19:12:50,St Gallen,todo
+881,Ashley Caldwell,silver,1958-03-29 23:05:04,Wil,todo
+882,Ruby Honeycutt,silver,1961-06-16 04:46:32,St Gallen,todo
+883,Dannie Mathews,silver,1979-03-08 02:56:29,Buelach,todo
+884,Adrian Littlefield,gold,1956-05-12 10:03:49,Zuerich,todo
+885,Helen Brewster,bronze,1989-06-23 07:27:05,Gossau,todo
+886,Rose Foster,silver,1978-04-26 07:57:25,Sankt Gallen,todo
+887,Arlene Jung,gold,1980-07-20 08:41:11,St. Gallen,todo
+888,Paul Cotto,bronze,2004-06-30 07:42:03,St. Gallen,todo
+889,Kate Mace,silver,1974-12-09 21:39:32,Kreuzlingen,todo
+890,James Manson,bronze,1996-10-12 16:10:44,Wil,todo
+891,Malcolm Pena,silver,1968-04-03 10:24:17,Kreuzlingen,todo
+892,Walter Lacombe,bronze,1954-07-16 20:16:08,Wil,todo
+893,William Cockrell,bronze,1980-07-04 20:13:48,Gossau,todo
+894,Mamie Brown,bronze,1994-04-02 10:57:13,St. Gallen,todo
+895,Edward Barrios,silver,1973-01-27 03:00:41,Gossau,todo
+896,Kimberly Crosslin,silver,1973-02-07 22:43:28,Winterthur,todo
+897,Kimberly Williams,silver,1959-07-30 03:33:13,Sankt Gallen,todo
+898,Christopher Barkley,bronze,1974-02-09 10:36:54,Romanshorn,todo
+899,Raymond Flett,silver,1958-02-16 05:50:36,Winterthur,todo
+900,Elnora Ramirez,silver,1953-10-10 00:58:38,Zuerich,todo
+901,Michael Haskell,gold,1988-10-21 04:11:37,Winterthur,todo
+902,Will Gardner,silver,1981-04-14 16:12:47,Kreuzlingen,todo
+903,Lori Norris,bronze,1979-10-23 16:08:39,Gossau,todo
+904,Brandi Fetty,bronze,1957-06-14 16:39:00,St. Gallen,todo
+905,Joe Johnson,bronze,1954-05-12 14:07:44,Frauenfeld,todo
+906,Matilda Rightmire,gold,1997-08-11 17:43:41,Zuerich,todo
+907,Cassie Rosenow,gold,2000-11-07 02:55:37,Sankt Gallen,todo
+908,Chad Foslien,silver,1998-03-01 13:35:04,Kreuzlingen,todo
+909,Myles Smith,gold,1966-09-01 07:30:45,Zuerich,todo
+910,Lisa Cowles,silver,1952-03-30 19:09:54,Zürich,todo
+911,Eduardo Kuebler,bronze,2000-08-13 07:43:00,St. Gallen,todo
+912,Wallace Fischer,silver,1960-12-11 13:42:18,St Gallen,todo
+913,Dena Herrera,gold,1980-11-23 23:00:30,Romanshorn,todo
+914,Jerome Bronson,bronze,1980-02-16 13:36:19,Kreuzlingen,todo
+915,Hubert Jones,bronze,2003-06-12 13:02:52,Romanshorn,todo
+916,John Williams,bronze,1967-03-07 18:44:37,Zürich,todo
+917,Jo Daniels,bronze,1979-11-23 03:37:55,Romanshorn,todo
+918,Charles Gerena,bronze,1952-10-27 16:59:21,St Gallen,todo
+919,David Mccullough,gold,1953-01-27 01:28:50,Wil,todo
+920,Frank Hall,bronze,1952-03-12 16:44:51,St Gallen,todo
+921,Richard Curry,bronze,1977-12-16 15:29:40,Wil,todo
+922,Kent Speedy,bronze,1956-05-10 01:10:39,Sankt Gallen,todo
+923,Helen Gardea,bronze,1967-11-10 22:57:48,St Gallen,todo
+924,Jennifer Arndt,silver,1994-05-02 13:15:17,Uster,todo
+925,Gwendolyn Blodgett,bronze,2002-03-29 16:57:11,Uster,todo
+926,Cara Bailly,bronze,1974-03-09 14:16:58,Kreuzlingen,todo
+927,Wallace Bateman,gold,1991-06-25 13:58:20,Bülach,todo
+928,Susan Kolle,silver,1984-06-24 22:16:18,Bülach,todo
+929,Kathern Doherty,bronze,1958-12-31 20:20:43,Bülach,todo
+930,Carl Nolan,silver,1951-11-17 08:04:57,Zuerich,todo
+931,Leroy Cornelia,bronze,1964-09-13 23:56:43,Sankt Gallen,todo
+932,George Choe,bronze,1990-12-30 09:52:25,Buelach,todo
+933,Lavon Wiles,gold,1974-12-10 18:13:26,Kreuzlingen,todo
+934,Robert Jones,silver,1952-01-13 10:12:12,Uster,todo
+935,John Mckenzie,silver,1999-02-01 14:50:20,Winterthur,todo
+936,Elaine Erickson,bronze,1989-04-30 20:00:13,Frauenfeld,todo
+937,Robert Mcnally,bronze,1986-04-16 17:47:40,St Gallen,todo
+938,Cynthia Pilkenton,silver,1975-05-01 21:57:41,Uster,todo
+939,Michael Torres,silver,1992-10-24 17:41:45,Zuerich,todo
+940,Jerry Davidson,gold,1972-07-10 07:47:03,Wil,todo
+941,Jeffrey Jones,silver,1968-02-16 10:36:05,Sankt Gallen,todo
+942,Ira Scott,bronze,1999-07-25 04:59:39,Zürich,todo
+943,Pamela White,silver,1982-07-16 02:06:41,Romanshorn,todo
+944,Yvonne Madison,gold,1955-07-23 04:32:42,Gossau,todo
+945,Carol Moy,bronze,1988-09-16 11:43:01,Wil,todo
+946,Tyler Thompson,gold,1963-09-27 04:09:15,Gossau,todo
+947,Christopher Esposito,silver,1973-01-07 21:52:17,Wil,todo
+948,Patrick Medina,gold,1985-08-10 17:54:05,Gossau,todo
+949,Bernice Davis,gold,1985-09-04 13:08:12,St. Gallen,todo
+950,Robert Geathers,silver,1985-08-05 15:01:35,St. Gallen,todo
+951,David Partin,silver,1952-11-09 08:39:23,Gossau,todo
+952,Stanley Fuller,silver,1973-12-26 04:30:19,Gossau,todo
+953,Eileen Sullivan,gold,1977-09-21 05:29:41,Romanshorn,todo
+954,Tammy Small,silver,1998-04-26 16:17:50,St Gallen,todo
+955,Nancy Matos,bronze,1991-05-17 01:54:02,Sankt Gallen,todo
+956,Louis Dorris,silver,1958-03-16 17:55:47,Frauenfeld,todo
+957,Lisa Mitchell,bronze,1952-02-01 14:30:08,Zuerich,todo
+958,Margaret Gonzalez,silver,1963-12-28 10:33:07,St Gallen,todo
+959,Eric Fletcher,silver,1976-07-22 07:08:09,Buelach,todo
+960,Mary Pettit,bronze,1959-04-26 23:55:00,Sankt Gallen,todo
+961,Lydia Walker,gold,1998-06-10 02:09:05,Gossau,todo
+962,Angel Davis,silver,2004-04-01 22:46:31,St Gallen,todo
+963,Irene Lemon,gold,1951-07-15 22:36:09,Buelach,todo
+964,Adrienne Dorr,gold,1975-04-01 10:50:31,Zürich,todo
+965,Stephanie Armstrong,bronze,1998-07-22 19:31:05,Winterthur,todo
+966,Judy Storm,gold,1959-08-02 00:17:29,Uster,todo
+967,Debora Utter,gold,2003-10-20 20:00:57,Winterthur,todo
+968,Isaiah Aparicio,silver,2002-05-10 04:44:40,Winterthur,todo
+969,Carol Neighbors,silver,1980-07-31 16:11:07,Winterthur,todo
+970,Amy Igtanloc,gold,1995-06-19 19:28:12,Bülach,todo
+971,John Duke,bronze,1972-04-28 04:36:14,St. Gallen,todo
+972,Dianne Diaz,bronze,1962-07-06 05:31:33,Bülach,todo
+973,Roberto Iliff,gold,1962-10-24 13:54:22,Buelach,todo
+974,Alice Bleich,bronze,1965-03-05 03:36:20,St. Gallen,todo
+975,Carrie Wise,gold,1982-08-23 01:08:41,Wil,todo
+976,David Barnes,gold,1956-10-16 11:42:53,St Gallen,todo
+977,Eleanor Doyle,bronze,1992-05-08 00:27:21,Wil,todo
+978,Ashley Mudd,gold,1979-12-04 05:36:08,St. Gallen,todo
+979,Joan Reyes,silver,1989-04-26 17:49:37,Romanshorn,todo
+980,Lawrence Page,silver,1988-10-04 06:38:08,Uster,todo
+981,Pamela Brightharp,gold,1983-06-18 15:00:02,Uster,todo
+982,Martin Baker,gold,1982-08-21 23:22:20,Sankt Gallen,todo
+983,Frederick Kershner,silver,1967-12-12 13:06:37,Uster,todo
+984,Prince Bock,silver,1963-09-29 20:29:05,St. Gallen,todo
+985,Antony Blaine,gold,1983-11-21 07:57:42,Kreuzlingen,todo
+986,Diego Moore,gold,1954-08-26 13:41:16,Bülach,todo
+987,Guy Rodriquez,silver,2001-12-22 19:39:32,Winterthur,todo
+988,John Deering,bronze,1994-05-18 06:09:17,Frauenfeld,todo
+989,Lori Morrow,silver,1954-04-06 17:22:43,Winterthur,todo
+990,Christopher Steele,bronze,1997-02-13 21:02:52,Zürich,todo
+991,Myron Keller,silver,1955-05-08 05:02:32,Kreuzlingen,todo
+992,Kraig Merrell,gold,1985-03-27 18:39:29,Gossau,todo
+993,Annette Gunn,bronze,1966-12-18 04:51:22,Bülach,todo
+994,Kevin Goad,silver,1968-03-31 03:41:31,Kreuzlingen,todo
+995,Adelle Blanchard,gold,1970-01-10 01:02:49,St Gallen,todo
+996,Randy Ramon,silver,1990-02-08 03:56:18,Gossau,todo
+997,Lori Reyes,bronze,2001-05-31 15:39:19,Zürich,todo
+998,Erica Martinez,gold,1971-05-24 09:04:24,Sankt Gallen,todo
+999,Thomas Coppenger,silver,1984-05-01 10:54:29,Romanshorn,todo
