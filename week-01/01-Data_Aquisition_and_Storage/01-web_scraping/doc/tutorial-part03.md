@@ -104,4 +104,4 @@ After the spider finishes, you'll find a `books.json` file in your project direc
 
 Success! You've extracted your first pieces of data.
 
-In the [final part](./tutorial-part04.md), we'll learn how to follow links to scrape data from every page of the bookstore, not just the first one.
+In the [next part](./tutorial-part04.md), we'll learn how to follow links to scrape data from every page of the bookstore, not just the first one.
